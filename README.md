@@ -19,3 +19,12 @@ A correlation heat map with all the data
 And also the correlation between hight and weight
 
 I orgenized my files into folder as well as the question asked as you can see below
+
+ADD THE PHOTO OF THE FOLDERS ONCE YOU GET IT ORGENIZED
+
+
+
+
+Question 2
+I did a few things with my data here, the first thing i did was i wanted to try and one hot encode the data set and i was able to do that an save it as a new cleaneddata.csv file that is saved in my branch. I have added a photo of it below.
+
